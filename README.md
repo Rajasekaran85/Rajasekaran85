@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajasekaran85&show_icons=true&locale=en&layout=compact" alt="rajasekaran85" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajasekaran85&show_icons=true&locale=en" alt="rajasekaran85" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajasekaran85&show_icons=true&locale=en" alt="rajasekaran85" /></p> 
 
 
 
