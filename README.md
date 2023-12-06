@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajasekaran A</h1>
 <h3 align="center">Senior Requirement Analyst</h3>
 
-- 🔭 I’m currently working on **E-Publishing, Digitization Projects**
+- 🔭 I’m currently working on **E-Publishing, E-Books, Digitization Projects**
 
 - 🌱 I’m currently learning **developing new technologies**
 
