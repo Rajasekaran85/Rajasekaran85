@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajasekaran85](https://github.com/rajasekaran85)
 
-- 💬 Ask me about **Digitization related projects (Imaging & PDF Automations)**
+- 💬 Ask me about **Digitization related projects (Imaging, PDF Automations, OCR, XML Creation, Validations, etc.)**
 
 - 📫 How to reach me **rajasekaran.al@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](Resume Link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
