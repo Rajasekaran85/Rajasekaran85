@@ -27,7 +27,7 @@
  <a href="https://en.wikipedia.org/wiki/XML_Schema_(W3C)" target="_blank" rel="noreferrer"> <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/xsd.png" alt="xsd" width="" height=""/> </a>
  <a href="https://en.wikipedia.org/wiki/XSL#:~:text=In%20computing%2C%20the%20term%20Extensible,transform%20and%20render%20XML%20documents." target="_blank" rel="noreferrer"> <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/xsl.png" alt="xsl" width="" height=""/> </a>
  <a href="https://en.wikipedia.org/wiki/Extensible_Metadata_Platform" target="_blank" rel="noreferrer"> <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/xmp1.png" alt="xmp" width="" height=""/> </a>
-   <a href="https://en.wikipedia.org/wiki/PDF/A" target="_blank" rel="noreferrer"> <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/pdf-a.png" alt="pdf-a" width="36" height="36"/> </a>
+   <a href="https://en.wikipedia.org/wiki/PDF/A" target="_blank" rel="noreferrer"> <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/pdf-a.png" alt="pdf-a" width="45" height="45"/> </a>
 
 </p>
 
