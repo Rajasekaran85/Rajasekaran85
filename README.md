@@ -45,7 +45,7 @@
 <a href="https://en.wikipedia.org/wiki/Extensible_Metadata_Platform" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/xmp1.png" alt="xmp" width="" height=""/> </a>  
 <a href="https://en.wikipedia.org/wiki/PDF/A" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/pdf-a.png" alt="pdf-a" width="45" height="45"/> </a>     
 <a href="https://www.loc.gov/preservation/digital/formats/fdd/fdd000022.shtml" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/tif.png" alt="pdf-a" width="50" height="50"/> </a>
-<a href="https://groups.niso.org/higherlogic/ws/public/download/17937/ANSI-NISO%20Z39.87-2006%20%28R2017%29%2C%20Data%20Dictionary%20-%20Technical%20Metadata%20for%20Digital%20Still%20Images.pdf" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/niso.png" alt="niso-image-meta" width="50" height="50"/> </a>
+<a href="https://groups.niso.org/higherlogic/ws/public/download/17937/ANSI-NISO%20Z39.87-2006%20%28R2017%29%2C%20Data%20Dictionary%20-%20Technical%20Metadata%20for%20Digital%20Still%20Images.pdf" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/niso.png" alt="niso-image-meta" width="60" height="60"/> </a>
 
 
  
