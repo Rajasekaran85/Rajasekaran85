@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **developing new technologies**
 
-- 👯 I’m looking to collaborate on **Python Automtion ** 
+- 👯 I’m looking to collaborate on **Python Automtion** 
 
 - 💡 I like to explore **new technologies and develop software solutions and quick hacks** 
 
