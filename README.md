@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Automtion** 
 
-- 💡 I like to explore **new technologies and develop software solutions and quick hacks**
+- 💡 I like to explore **new technologies and develop software solutions and quick hacks** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajasekaran85](https://github.com/rajasekaran85)
 
