@@ -55,8 +55,10 @@
  
  
  </p>
+<p></p>
+<p></p>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/profile.png" alt="html5" width="40" height="40"/></a></p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/profile.png" alt="html5" width="" height=""/></a></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajasekaran85&show_icons=true&locale=en&layout=compact" alt="rajasekaran85" /></p>
