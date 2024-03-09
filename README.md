@@ -57,8 +57,6 @@
  </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://github.com/Rajasekaran85/Rajasekaran85/blob/main/profile.png" alt="html5" width="" height=""/></a></p>
 
