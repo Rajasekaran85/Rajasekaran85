@@ -9,8 +9,6 @@
 
 - 💡 I like to explore **new technologies and develop software solutions and quick hacks** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajasekaran85](https://github.com/rajasekaran85)
-
 - 💬 Ask me about **Digitization related projects (Imaging, PDF Automations, OCR, XML Creation, Validations, etc.)**
 
 - 📫 How to reach me **rajasekaran.al@gmail.com**
