@@ -3,7 +3,7 @@
  
 - 🔭 I’m currently working on **E-Publishing, E-Books, Digitization Projects, RFP analysis, Pre-sales, Developing Technical Specification, Solution Engineer, Process Design, XML, EPUB**
 
-- 🌱 I’m currently learning **developing new technologies** 
+- 🌱 I’m currently learning **developing new technologies**
 
 - 👯 I’m looking to collaborate on **Python Automtion** 
 
