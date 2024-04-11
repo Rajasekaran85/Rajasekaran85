@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Automtion** 
 
-- 💡 I like to explore **new technologies and develop software solutions and quick hacks** 
+- 💡 I like to explore **new technologies and develop software solutions and quick hacks**
 
 - 💬 Ask me about **Digitization related projects (Imaging, PDF Automations, OCR, XML Creation, Validations, etc.)**  
 
