@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajasekaran</h1>
 <h3 align="center">Senior Requirement Analyst</h3>
  
-- 🔭 I’m currently working on **E-Publishing, E-Books, Digitization Projects, RFP analysis, Pre-sales, Developing Technical Specification, Solution Engineer, Process Design, XML, EPUB**
+- 🔭 I’m currently working on **E-Publishing, E-Books, Digitization Projects, RFP analysis, Sales support, Developing Technical Specification, Solution Engineer, Process Design, XML, EPUB**
 
 - 🌱 I’m currently learning **developing new technologies**
 
