@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajasekaran</h1>
 <h3 align="center">Senior Requirement Analyst</h3>
  
-- 🔭 Working on **Order Management, E-Publishing, E-Books, Digitization, Requirement analysis, Business analysis, Customer support, Solution engineering, Sales Support, RFP analysis, Developing technical specifications, Process Design, Testing, XML, EPUB** 
+- 🔭 Working on **Order Management, E-Publishing, E-Books, Digitization, Requirement analysis, Business analysis, Customer support, Solution engineering, Sales Support, RFP analysis, Developing technical specifications, Process Design, Testing, XML, EPUB, ERP** 
 
 - 🌱 I’m currently learning **developing new technologies**
 
